@@ -1,5 +1,5 @@
 # Crowd Music Recs
-Crowd Music Recommendations Repository
+AMRAI (Advanced Music Recommendation AI)
  
  
 As a music lover, I am excited to create an AI tool that can greatly enhance the music streaming experience. 
