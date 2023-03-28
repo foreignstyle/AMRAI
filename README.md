@@ -1,4 +1,4 @@
-# Crowd Music Recs
+# AMRAI
 AMRAI (Advanced Music Recommendation AI)
  
  
